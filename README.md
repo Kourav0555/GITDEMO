@@ -1,3 +1,3 @@
 # GITDEMO
-THIS IS MY FIRST REPOSITORY next line
-author - Priya Kourav
+THIS IS MY FIRST REPOSITORY 
+author - Priya Kourav next line
